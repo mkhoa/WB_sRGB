@@ -1,4 +1,4 @@
-## Demo: White balancing a single image
+# Demo: White balancing a single image
 #
 # Copyright (c) 2018-present, Mahmoud Afifi
 # York University, Canada
